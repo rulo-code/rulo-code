@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub 👋
 
 ## About me :mortar_board:
-I am a Platzi Master student, currently studying web technolgies. as a front end web developer I be able to build creative solves and maintaining websites using the best practces in the scope. Passionate about team working and build new skills **no amount of knowledge is enough knowledge, Never stop learning**. 🧠
+I am a Platzi Master student, currently studying web technolgies. as a front end web developer I be able to build creative solves and maintaining websites using the best practces in the scope. Passionate about team working and build new skills 
+**no amount of knowledge is enough knowledge, Never stop learning**. 🧠
+
+
 [![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=rulo-code)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
