@@ -3,7 +3,7 @@
 ## About me :mortar_board:
 I am a Platzi Master student, currently studying web technolgies. as a front end web developer I be able to build creative solves and maintaining websites using the best practces in the scope. Passionate about team working and build new skills.
 
-**no amount of knowledge is enough knowledge, Never stop learning**. 🧠
+**No amount of knowledge is enough knowledge, never stop learning**. 🧠
 
 
 ![](https://komarev.com/ghpvc/?username=rulo-code&color=green)
