@@ -8,7 +8,12 @@ I am a Platzi Master student, currently studying web technologies. as a front en
 ![](https://komarev.com/ghpvc/?username=rulo-code&color=green)
 
 
-[![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=rulo-code)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rulo-code&show_icons">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rulo-code">
+</p>
+
+
 
 <p align="center">
   <i><b>Let's connect!</b></i>
