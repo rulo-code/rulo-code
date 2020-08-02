@@ -5,6 +5,8 @@ I am a Platzi Master student, currently studying web technolgies. as a front end
 **no amount of knowledge is enough knowledge, Never stop learning**. 🧠
 
 
+![](https://komarev.com/ghpvc/?username=rulo-code&color=green)
+
 [![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=rulo-code)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
