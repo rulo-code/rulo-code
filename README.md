@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, Welcome to my GitHub 👋</h3>
 
-## About me :mortar_board:
+## About me :electron:
 I am a Platzi Master student, currently studying web technologies. as a front end web developer I be able to build creative solves and maintaining websites using the best practces in the scope. Passionate about team working and build new skills.
 
 **No amount of knowledge is enough knowledge, never stop learning**. 🧠
