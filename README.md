@@ -10,6 +10,17 @@ I am a Platzi Master student, currently studying web technolgies. as a front end
 
 [![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=rulo-code)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <i><b>Let's connect!</b></i>
+
+  <p align="center">
+    <a href="https://twitter.com/rulo_code" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/rulo-code/" alt="Linkedin"><img src="https://www.soydemarketing.com/wp-content/uploads/2015/12/linkedin-logo.png" height="30" width="30"></a>&nbsp;
+    <a href="https://rulocode.now.sh/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
+
+  </p>
+    
+</p>
 <!--
 **rulo-code/rulo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
