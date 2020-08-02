@@ -5,7 +5,7 @@ I am a Platzi Master student, currently studying web technologies. as a front en
 
 **No amount of knowledge is enough knowledge, never stop learning**. 🧠
 
-![Visits Badge](https://badges.pufler.dev/visits/rulo-code/rulo-code?style=for-the-badge ) 
+![](https://komarev.com/ghpvc/?username=rulo-code&color=green)
 
 
 [![Andrés's github stats](https://github-readme-stats.vercel.app/api?username=rulo-code)](https://github.com/anuraghazra/github-readme-stats)
