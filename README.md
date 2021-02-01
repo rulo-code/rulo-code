@@ -19,9 +19,9 @@ I am a [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Mas
   <i><b>Let's connect!</b></i>
 
   <p align="center">
-    <a target="_blank" href="https://twitter.com/rulo_code" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
+    
     <a target="_blank" href="https://www.linkedin.com/in/rulo-code/" alt="Linkedin"><img src="https://www.soydemarketing.com/wp-content/uploads/2015/12/linkedin-logo.png" height="30" width="30"></a>&nbsp;
-    <a target="_blank" href="https://rulocode.now.sh/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
+    
 
   </p>
     
