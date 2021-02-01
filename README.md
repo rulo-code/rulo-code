@@ -15,17 +15,7 @@ I am a [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Mas
 
 
 
-<p align="center">
-  <i><b>Let's connect!</b></i>
 
-  <p align="center">
-    
-    <a target="_blank" href="https://www.linkedin.com/in/rulo-code/" alt="Linkedin"><img src="https://www.soydemarketing.com/wp-content/uploads/2015/12/linkedin-logo.png" height="30" width="30"></a>&nbsp;
-    
-
-  </p>
-    
-</p>
 <!--
 **rulo-code/rulo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
