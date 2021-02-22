@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, Welcome to my GitHub 👋</h3>
 
 ## About me :electron:
-I am a [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Master") student, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practces in the scope. Passionate about team working and build new skills.
+I am a [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Master") student, currently studying web technologies. As a front end web developer I be able to build creative solves and maintaining websites using the best practices in the scope. Passionate about team working and build new skills.
 
 **No amount of knowledge is enough knowledge, never stop learning**. 🧠
 
@@ -10,7 +10,6 @@ I am a [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Mas
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rulo-code&layout=compact">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rulo-code&show_icons">
 </p>
 
 
